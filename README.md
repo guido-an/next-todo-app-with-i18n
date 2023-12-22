@@ -13,10 +13,11 @@ A Todo App built using Next.js with internationalization (i18n) support for an e
 
 ### 📦 Built With
 
-- [next.js] https://nextjs.org/docs
-- [json-server] https://github.com/typicode/json-server
-- [tailwindcss] https://tailwindcss.com/docs/guides/nextjs
-- [daisy ui] https://daisyui.com/components/
-- [react-icons] https://react-icons.github.io/react-icons/
-- [uuid] https://github.com/uuidjs/uuid
+- [next.js](https://nextjs.org/docs)
+- [json-server](https://github.com/typicode/json-server)
+- [tailwindcss](https://tailwindcss.com/docs/guides/nextjs)
+- [daisy ui](https://daisyui.com/components/)
+- [react-icons](https://react-icons.github.io/react-icons/)
+- [uuid](https://github.com/uuidjs/uuid)
+
 
