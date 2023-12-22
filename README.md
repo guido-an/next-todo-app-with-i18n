@@ -19,5 +19,6 @@ A Todo App built using Next.js with internationalization (i18n) support for an e
 - [daisy ui](https://daisyui.com/components/)
 - [react-icons](https://react-icons.github.io/react-icons/)
 - [uuid](https://github.com/uuidjs/uuid)
+  
 
-
+![Screenshot 2023-12-22 at 15 08 56](https://github.com/guido-an/next-todo-app-with-i18n/assets/30729360/f36a4113-f439-47d8-844f-440af92cbcef)
