@@ -1,0 +1,23 @@
+{
+  "Home": {
+    "title": "Bienvenido, esta es tu lista de tareas"
+  },
+  "AddToDo": {
+    "btnText": "Agregar nueva tarea"
+  },
+  "TodoList": {
+    "todosText": "Tareas",
+    "actionsText": "Acciones"
+  },
+  "TodoForm": {
+    "addToDoText": "Agregar nueva tarea",
+    "editTodoText": "Editar tarea"
+  },
+  "common": {
+    "yesText": "Sí",
+    "noText": "No",
+    "submitText": "Enviar",
+    "areYouSureText": "¿Estás seguro?",
+    "typeHereText": "Escribe aquí"
+  }
+}

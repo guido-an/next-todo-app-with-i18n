@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "e05e990f-de59-4004-a1d5-9b71f88e3ef0",
+      "text": "foo",
+      "completed": false
+    },
+    {
+      "id": "5c0154f6-4377-486d-bf79-d19750ac6dc4",
+      "text": "bar",
+      "completed": false
+    },
+    {
+      "id": "a354d21e-b054-49b1-9bd4-d8d361f45d1e",
+      "text": "buz",
+      "completed": true
+    }
+  ]
+}
