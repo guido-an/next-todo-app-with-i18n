@@ -1,0 +1,23 @@
+{
+  "Home": {
+    "title": "Willkommen, dies ist Ihre Todo-Liste"
+  },
+  "AddTodo": {
+    "btnText": "Neue Aufgabe hinzufügen"
+  },
+  "TodoList": {
+    "todosText": "Aufgaben",
+    "actionsText": "Aktionen"
+  },
+  "TodoForm": {
+    "addToDoText": "Neue Aufgabe hinzufügen",
+    "editTodoText": "Aufgabe bearbeiten"
+  },
+  "common": {
+    "yesText": "Ja",
+    "noText": "Nein",
+    "submitText": "Absenden",
+    "areYouSureText": "Sind Sie sicher?",
+    "typeHereText": "Hier eingeben"
+  }
+}

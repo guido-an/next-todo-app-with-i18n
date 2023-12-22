@@ -1,0 +1,23 @@
+{
+  "Home": {
+    "title": "Welcome, this is your todo list"
+  },
+  "AddTodo": {
+    "btnText": "Add new todo"
+  },
+  "TodoList": {
+    "todosText": "Todos",
+    "actionsText": "Actions"
+  },
+  "TodoForm": {
+    "addToDoText": "Add new todo",
+    "editTodoText": "Edit todo"
+  },
+  "common": {
+    "yesText": "Yes",
+    "noText": "No",
+    "submitText": "Submit",
+    "areYouSureText": "Are you sure?",
+    "typeHereText": "Type here"
+  }
+}
